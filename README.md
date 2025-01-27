@@ -1,4 +1,4 @@
-The Dataset Use throughout this project are : from https://pytorch.org/vision/0.18/generated/torchvision.datasets.EMNIST.html#torchvision.datasets.EMNIST
+The Dataset Use throughout this project are :  https://pytorch.org/vision/0.18/generated/torchvision.datasets.EMNIST.html#torchvision.datasets.EMNIST
 https://www.kaggle.com/datasets/lubaroli/notmnist
 https://pytorch.org/vision/0.18/generated/torchvision.datasets.KMNIST.html#torchvision.datasets.KMNIST
 https://pytorch.org/vision/0.18/generated/torchvision.datasets.Imagenette.html#torchvision.datasets.Imagenette
